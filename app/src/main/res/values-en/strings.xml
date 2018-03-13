@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shoes app</string>
+    <string name="titulo">XYZ Shoes</string>
+    <string name="sexo">Sex</string>
+    <string name="tipo_zapatos">type of shoes</string>
+    <string name="marca">brand</string>
+    <string name="cotizar">calculate</string>
+    <string name="numero">quantity</string>
+    <string name="s_mujer">woman</string>
+    <string name="s_hombre">man</string>
+    <string name="t_clasico">classic</string>
+    <string name="t_zapatilla">shoe</string>
+    <string name="m_adidas">Adidas</string>
+    <string name="m_nike">Nike</string>
+    <string name="m_puma">Puma</string>
+    <string name="mensaje_2">Enter a number greater than zero</string>
+    <string name="mensaje_1">" Enter a number"</string>
+</resources>

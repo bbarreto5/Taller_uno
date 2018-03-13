@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Zapatos app</string>
+    <string name="titulo">ZXY ZAPATOS</string>
+    <string name="sexo">Sexo</string>
+    <string name="tipo_zapatos">Tipo de Zapatos</string>
+    <string name="marca">Marca</string>
+    <string name="cotizar">Calcular</string>
+    <string name="numero">Cantidad</string>
+    <string name="s_hombre">HOMBRE</string>
+    <string name="s_mujer">MUJER</string>
+    <string name="t_clasico">Clasico</string>
+    <string name="t_zapatilla">Zapatilla</string>
+    <string name="m_adidas">Adidas</string>
+    <string name="m_nike">Nike</string>
+    <string name="m_puma">Puma</string>
+
+    <string-array name="tipo_array">
+        <item>@string/t_zapatilla</item>
+        <item>@string/t_clasico</item>
+    </string-array>
+
+    <string-array name="marca_array">
+        <item>@string/m_nike</item>
+        <item>@string/m_adidas</item>
+        <item>@string/m_puma</item>
+    </string-array>
+
+    <string-array name="sexo_array">
+        <item>@string/s_hombre</item>
+        <item>@string/s_mujer</item>
+    </string-array>
+    <string name="mensaje_1">Digite un numero</string>
+    <string name="mensaje_2">Digite un numero mayor a cero</string>
+</resources>
